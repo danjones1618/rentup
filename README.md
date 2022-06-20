@@ -17,3 +17,27 @@ Slogan:
 - Landlord and tenant reviews
 - Map view
 - Payment of rent via the app?
+
+## Logos
+### Logo 1
+
+![res/logo1.png](Logo 1)
+
+Likes:
+- Clean
+- Playful font
+- Playful house
+
+Dislikes:
+- Childish?
+
+### Logo 2
+![res/logo2.png](Logo 2)
+
+Likes:
+- Birds
+- Minimalist
+- Striking font
+
+Dislikes:
+- Houses are very teepee like
