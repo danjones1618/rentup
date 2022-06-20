@@ -21,7 +21,7 @@ Slogan:
 ## Logos
 ### Logo 1
 
-![res/logo1.png](Logo 1)
+![Logo 1](res/logo1.png)
 
 Likes:
 - Clean
@@ -32,7 +32,7 @@ Dislikes:
 - Childish?
 
 ### Logo 2
-![res/logo2.png](Logo 2)
+![Logo 2](res/logo2.png)
 
 Likes:
 - Birds
